@@ -1,5 +1,5 @@
 # Bank_Churn_Analaysis-by-Top-Banker
-Analysed Bank_Churn Analaysis different attribute wise to get deep business driven insights to improve the process
+
 📌 Overview
 
 This project analyzes customer churn behavior using a bank dataset to identify key factors influencing customer retention.
@@ -32,6 +32,8 @@ Target low-balance customers with engagement strategies
 
 Improve retention for high-product customers
 
+Author
+Priya Annamalai
 Cross sell Credit Cards for Customer retention
 
 Increase customer activity through incentives
