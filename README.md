@@ -1,6 +1,5 @@
 # Bank_Churn_Analaysis-by-Top-Banker
 Analysed Bank_Churn Analaysis different attribute wise to get deep business driven insights to improve the process
-
 📌 Overview
 
 This project analyzes customer churn behavior using a bank dataset to identify key factors influencing customer retention.
@@ -16,6 +15,7 @@ Provide business recommendations to reduce churn
 📊 Tools Used
 
 Google Sheets (Pivot Tables, Dashboard)
+
 📈 Key Insights
 
 Low-balance customers have the highest churn (~34.64%)
@@ -36,7 +36,6 @@ Cross sell Credit Cards for Customer retention
 
 Increase customer activity through incentives
 
-Author
-Priya Annamalai
+
 
 Promote credit card usage to improve engagement
