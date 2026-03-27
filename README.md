@@ -1,5 +1,5 @@
 # Bank_Churn_Analaysis-by-Top-Banker
-Analysed Bank_Churn Analaysis different Category wise to get deep business driven insights to improve the process
+Analysed Bank_Churn Analaysis different attribute wise to get deep business driven insights to improve the process
 
 📌 Overview
 
@@ -34,11 +34,9 @@ Improve retention for high-product customers
 
 Cross sell Credit Cards for Customer retention
 
-Service is the Key for Success
-
-🚀 Author
-Priya Annamalai
-
 Increase customer activity through incentives
+
+Author
+Priya Annamalai
 
 Promote credit card usage to improve engagement
