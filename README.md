@@ -1,5 +1,4 @@
-# Bank_Churn_Analaysis-by-Top-Banker
-
+🏦 Bank Churn Analysis Dashboard
 📌 Overview
 
 This project analyzes customer churn behavior using a bank dataset to identify key factors influencing customer retention.
@@ -36,6 +35,6 @@ Increase customer activity through incentives
 
 Promote credit card usage to improve engagement
 
-Author- PriyaAnnamalai
+Author
 
-Promote credit card usage to improve engagement
+Priya Annamalai
