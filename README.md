@@ -32,12 +32,10 @@ Target low-balance customers with engagement strategies
 
 Improve retention for high-product customers
 
-Author
-Priya Annamalai
-Cross sell Credit Cards for Customer retention
-
 Increase customer activity through incentives
 
+Promote credit card usage to improve engagement
 
+Author- PriyaAnnamalai
 
 Promote credit card usage to improve engagement
