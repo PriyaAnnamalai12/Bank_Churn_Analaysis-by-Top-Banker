@@ -100,7 +100,7 @@ Google Sheets (Pivot Tables, Dashboard Design)
 
 This analysis identifies key drivers of churn and provides actionable strategies that can help banks improve customer retention and long-term profitability.
 
-👤 Author - Priya Annamalai
+👤 Author 
 
-Priya Annamalai
+Priya Anmalai
 
