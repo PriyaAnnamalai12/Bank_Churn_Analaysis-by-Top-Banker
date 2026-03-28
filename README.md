@@ -1,41 +1,106 @@
 🏦 Bank Churn Analysis Dashboard
+📌 Project Overview
 
-📌 Overview
-
-This project analyzes customer churn behavior using a bank dataset to identify key factors influencing customer retention.
+Customer churn is a critical challenge in the banking industry, directly impacting revenue and growth.
+This project analyzes customer behavior to identify key drivers of churn and provide actionable insights to improve retention.
 
 🎯 Objectives
 
-Identify high-risk customer segments
+Identify customer segments with high churn risk
 
-Analyze churn patterns across customer attributes
+Analyze how financial and behavioral factors impact churn
 
-Provide business recommendations to reduce churn
+Provide data-driven recommendations to reduce customer attrition
 
-📊 Tools Used
+📂 Dataset Description
 
-Google Sheets (Pivot Tables, Dashboard)
+The dataset contains customer-level information including:
 
-📈 Key Insights
+Account balance
 
-Low-balance customers have the highest churn (~34.64%)
+Number of products
 
-Customers with 3–4 products show extremely high churn (82–100%)
+Credit card ownership
 
-Inactive members churn significantly more (26.85%)
+Active membership status
 
-Customers without credit cards churn more (26.85%)
+Tenure with the bank
 
-💡 Recommendations
+Churn status (0 = retained, 1 = churned)
 
-Target low-balance customers with engagement strategies
+🛠️ Process
 
-Improve retention for high-product customers
+Data Preparation
 
-Increase customer activity through incentives
+Cleaned and structured messy data across multiple sheets
 
-Promote credit card usage to improve engagement
+Merged datasets using customer ID
 
-Author
+Created derived features such as Balance Category
+
+Data Analysis
+
+Built pivot tables to analyze churn across multiple dimensions
+
+Calculated churn rates using % of row totals
+
+Visualization
+
+Designed an interactive dashboard in Google Sheets
+
+Created charts for key segments (Balance, Products, Activity, Credit Card)
+
+Insight Generation
+
+Identified high-risk customer segments
+
+Translated data findings into business recommendations
+
+📊 Dashboard Highlights
+
+Overall churn rate: ~20%
+
+Highest churn observed among:
+
+Customers with 3–4 products (82–100%)
+
+Low-balance customers (~34.64%)
+
+Lower churn observed among:
+
+Active members (~14.29%)
+
+Customers with credit cards (~14.29%)
+
+🔍 Key Insights
+
+Product Usage: Customers with more products (3–4) show extremely high churn, indicating possible dissatisfaction or complexity
+
+Balance Behavior: Low-balance customers are more likely to leave, suggesting low engagement
+
+Customer Engagement: Active members are significantly less likely to churn
+
+Credit Card Ownership: Customers with credit cards show better retention
+
+💡 Business Recommendations
+
+🎯 Target low-balance customers with personalized engagement strategies
+
+🔄 Improve experience for high-product customers to reduce dissatisfaction
+
+📢 Increase customer activity through incentives and communication campaigns
+
+💳 Promote credit card adoption to strengthen customer relationships
+
+🚀 Tools Used
+
+Google Sheets (Pivot Tables, Dashboard Design)
+
+📈 Project Outcome
+
+This analysis identifies key drivers of churn and provides actionable strategies that can help banks improve customer retention and long-term profitability.
+
+👤 Author - Priya Annamalai
 
 Priya Annamalai
+
