@@ -1,8 +1,9 @@
 🏦 Bank Churn Analysis Dashboard
 📌 Project Overview
 
-Customer churn is a critical challenge in the banking industry, directly impacting revenue and growth.
-This project analyzes customer behavior to identify key drivers of churn and provide actionable insights to improve retention.
+Customer churn is a major challenge in the banking industry, directly affecting revenue and customer lifetime value. 
+
+In this project, I analyzed bank customer data to identify key factors driving churn and built an interactive dashboard to uncover actionable insights for improving customer retention.
 
 🎯 Objectives
 
@@ -91,6 +92,11 @@ Credit Card Ownership: Customers with credit cards show better retention
 📢 Increase customer activity through incentives and communication campaigns
 
 💳 Promote credit card adoption to strengthen customer relationships
+
+Why This Project Matters
+- Acquiring new customers is more expensive than retaining existing ones  
+- Understanding churn helps banks improve profitability  
+- Data-driven insights can guide targeted retention strategies  
 
 🚀 Tools Used
 
